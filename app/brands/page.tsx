@@ -11,7 +11,7 @@ export default function BrandsPage() {
     {
       id: 1,
       name: "BMW",
-      logo: "/placeholder.svg?height=200&width=200",
+      logo: "/images/bmw-logo.png?height=200&width=200",
       description:
         "The Ultimate Driving Machine. We offer a complete range of genuine BMW parts and accessories for all models.",
       popularModels: ["3 Series", "5 Series", "X5", "M3", "M5"],
@@ -20,7 +20,7 @@ export default function BrandsPage() {
     {
       id: 2,
       name: "Mercedes-Benz",
-      logo: "/placeholder.svg?height=200&width=200",
+      logo: "/images/mercl.png?height=200&width=200",
       description:
         "The Best or Nothing. Explore our extensive collection of authentic Mercedes-Benz parts for luxury and performance.",
       popularModels: ["C-Class", "E-Class", "S-Class", "GLE", "AMG GT"],
