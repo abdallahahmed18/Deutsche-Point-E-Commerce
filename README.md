@@ -12,10 +12,10 @@ Deutsche Point E-Commerce is a web application for buying and selling vehicle an
 
 ## Technologies Used
 
-- Frontend: (React, Angular, or specify your framework)
-- Backend: (Node.js, Django, or specify your backend)
-- Database: (MongoDB, PostgreSQL, or specify your database)
-- Payment Integration: (Stripe, PayPal, etc.)
+- Frontend: (Node.js, tailwind.css)
+- Backend: (Node.js,)
+- Database: (PostgreSQL,)
+- Payment Integration: (M-Pesa, visa ,Stripe, PayPal, etc.)
 
 ## Getting Started
 
